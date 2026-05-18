@@ -3,7 +3,7 @@
 > **Authors** : [Donghyeok Lee](http://github.com/Dohy-Lee), [Jeongyeon Park](https://github.com/Jeongyeon0), [Kyungbeen Cho](https://github.com/kyungbeen-nlp), [Jae Sung Lee](https://scholar.google.com/citations?user=mYKw_7oAAAAJ&hl=ko)† <br>
 > († indicates Corresponding Author) <br>
 > 🎉 Accepted to EACL 2026 (Main Conference) <br>
-> Download : [PDF](http://google.com)
+> Download : [PDF](https://aclanthology.org/2026.eacl-short.22/)
 
 > **Abstract** : Tokenization plays a crucial role in the performance of language models.
 > However, most existing tokenizers rely on frequency-based segmentation, which fails to capture the morphological structure of languages and often leads to inefficient token representations.<br> In this study, we propose a novel tokenization method that emphasizes the importance of Korean morphological structures in ___eojeol___ (Korean spacing unit). This method is designed to accommodate both inter-___eojeol___ segmentation and intra-___eojeol___ segmentation, enabling the selection of subwords based on morphemes.<br>
